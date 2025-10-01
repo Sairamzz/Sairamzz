@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Sairam Sridharan      
 
-<!--
-**Sairamzz/Sairamzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I am a Robotics Graduate Student at Northeastern University (Boston) with a strong analytical mindset and a passion for solving complex robotic challenges. My knowledge and project experience spans across:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Robotics & Autonomy – sensor fusion, autonomous navigation, control optimization
+
+- Artificial Intelligence & ML – machine learning frameworks, algorithm optimization
+
+- Computer Vision – OpenCV, perception, and vision-based navigation
+
+- Engineering Tools – ROS, Python, CAD design, simulation environments
+
+I enjoy building intelligent robotic systems that bridge the gap between theory and real-world application. Always curious, always learning
+
+🌐 Connect with Me
+linkedin.com/in/sairam-sridharan-6640441b9
